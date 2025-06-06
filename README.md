@@ -102,7 +102,7 @@ La aplicación funciona sin API key usando datos mock simulados para demostraci�
 
 ### Funcionalidades
 
-- **Monitoreo automático** cada 30 segundos
+- **Monitoreo automático** cada 15 segundos
 - **Detección de nuevas transacciones** entrantes
 - **Alertas de cambios de balance**
 - **Visualización de transacciones** recientes
