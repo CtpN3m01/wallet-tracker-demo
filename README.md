@@ -20,7 +20,7 @@ Desarrollar un sistema de monitoreo integral que detecte automáticamente:
 - **Cambio dinámico** entre blockchains sin reiniciar
 
 ### 🔄 **Monitoreo Inteligente**
-- **Polling automático** cada 30 segundos
+- **Polling automático** cada 15 segundos
 - **Detección de cambios** de balance con precisión de 6 decimales
 - **Notificaciones instantáneas** de nuevas transacciones
 - **Seguimiento de tokens** ERC-20 con precios USD
