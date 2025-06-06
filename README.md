@@ -173,7 +173,7 @@ src/
 
 ### Proceso de Monitoreo
 1. **Inicialización** → Cargar estado inicial de wallet
-2. **Polling** → Verificar cambios cada 30 segundos
+2. **Polling** → Verificar cambios cada 15 segundos
 3. **Comparación** → Detectar diferencias en balance/transacciones
 4. **Eventos** → Emitir notificaciones tipadas
 5. **UI Update** → Actualizar interfaz reactivamente
